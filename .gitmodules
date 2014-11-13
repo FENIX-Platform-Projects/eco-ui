@@ -13,6 +13,3 @@
 [submodule "submodules/fenix-ui-analysis"]
 	path = submodules/fenix-ui-analysis
 	url = https://github.com/FENIX-Platform/fenix-ui-analysis.git
-[submodule "node_modules"]
-	path = node_modules
-	url = https://github.com/benjamn/install.git
