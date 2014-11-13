@@ -28,6 +28,11 @@
         "bootstrap": "~3.2.0",
         "requirejs": "~2.1.14",
         "draggabilly": "~1.1.1",
-        "packery": "~1.2.4"
+        "packery": "~1.2.4",
+        "fenix-ui-DSDEditor": "https://github.com/FENIX-Platform/fenix-ui-DSDEditor/tarball/master",
+        "fenix-ui-DataEditor": "https://github.com/FENIX-Platform/fenix-ui-DataEditor/tarball/master",
+		"fenix-ui-analysis": "https://github.com/FENIX-Platform/fenix-ui-analysis/tarball/develop",
+		"fenix-ui-catalog": "https://github.com/FENIX-Platform/fenix-ui-catalog/tarball/master",
+		"fenix-ui-metadata-editor": "https://github.com/FENIX-Platform/fenix-ui-metadata-editor/tarball/master"
     }
 }
